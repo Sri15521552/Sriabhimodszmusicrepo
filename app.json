@@ -42,7 +42,7 @@
         "value": "7137269276",
         "required": true
       },
-    "GBAN_LOGS": {
+    "Support Channel": {
         "description": "Logger group id add also",
         "value": "",
         "required": true
